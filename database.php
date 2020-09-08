@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "den1.mysql1.gear.host";
+$username = "schoolnew";
+$password = "Ms5x8mZS__11";
 $dbname = "schoolnew";
 
 // Create connection
