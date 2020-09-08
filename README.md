@@ -22,8 +22,8 @@ Demo
 
 Visit [School Management System Demo](http://schoolms.gearhostpreview.com)
 
-Teacher Login - Email: tea@tea.tea Password:tea
-Student Login - Email: stu@stu.stu Password:stu
-Parent Login - Email: par@par.par Password:par
+* Teacher Login - Email: tea@tea.tea Password:tea;
+* Student Login - Email: stu@stu.stu Password:stu;
+* Parent Login - Email: par@par.par Password:par;
 
   
