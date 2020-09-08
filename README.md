@@ -2,15 +2,15 @@
 
 Available Functions
 
-  *Student Management
-  *Subject Management
-  *Class Room Management
-  *Exam Management
-  *Attendance Management
-  *Teacher Management
-  *Parents Management
-  *User Management
-  *School Notice Distribution
+  *Student Management;
+  *Subject Management;
+  *Class Room Management;
+  *Exam Management;
+  *Attendance Management;
+  *Teacher Management;
+  *Parents Management;
+  *User Management;
+  *School Notice Distribution;
   
 Setup Instruction
 
